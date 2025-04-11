@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ayesha-asad07/tastyWay.git/static/css/main.728b03b2.css",
+    "main.js": "/ayesha-asad07/tastyWay.git/static/js/main.bed95375.js",
+    "static/media/Riders.webp": "/ayesha-asad07/tastyWay.git/static/media/Riders.e0122d79854ef6b88371.webp",
+    "static/media/logo.png": "/ayesha-asad07/tastyWay.git/static/media/logo.d2f8c478ccd6d1b3ac46.png",
+    "static/media/resturants.png": "/ayesha-asad07/tastyWay.git/static/media/resturants.06fc62a2ac739d3045bb.png",
+    "static/media/hero-bg1.webp": "/ayesha-asad07/tastyWay.git/static/media/hero-bg1.6475da70282b7790cfd9.webp",
+    "static/media/mobile-ui.jpeg": "/ayesha-asad07/tastyWay.git/static/media/mobile-ui.d4944d359d5e9de8b96e.jpeg",
+    "index.html": "/ayesha-asad07/tastyWay.git/index.html",
+    "main.728b03b2.css.map": "/ayesha-asad07/tastyWay.git/static/css/main.728b03b2.css.map",
+    "main.bed95375.js.map": "/ayesha-asad07/tastyWay.git/static/js/main.bed95375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728b03b2.css",
+    "static/js/main.bed95375.js"
+  ]
+}
